@@ -1,6 +1,8 @@
 # Project0
 ## Project Description
-Here goes your awesome project description!
+A banking application where the user can either be an employee or a client. A user is able to sign in, an employee can create a new user account as well as review credit
+requests. A client can view their balance, deposit, withdraw, and transfer money, view transaction history, and apply for a line of credit. Any user may logout when
+they are done
 
 ## Technologies Used
 * Tech 1 - version 1.0
@@ -8,14 +10,26 @@ Here goes your awesome project description!
 * Tech 3 - version 3.0
 
 ## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+Client
+* View balance
+* Deposit money
+* Withdraw money
+
+Employee
+* Create new user account
+
+Both
+* Sign in
+* sign out
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+Client
+* Transfer money
+* View transaction history
+* Apply for line of credit
+
+Employee
+* Review credit requests
 
 ## Getting Started
 * (include git clone command) (include all environment setup steps)
