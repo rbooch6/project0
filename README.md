@@ -9,6 +9,7 @@ they are done
 * Java
 * PostgreSQL
 * AWS
+* JUnit
 
 ## Features
 Client
