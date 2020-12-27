@@ -43,7 +43,7 @@ The program was written using the eclipse IDE with the the package name being pr
 * java.util.Scanner;
 * java.util.InputMismatchException;
 
-It also connected to a PostgreSQL database using running on AWS, however the database has since been stopped so there are currently test variables to show the program running
+It also connected to a PostgreSQL database running on AWS, however the database has since been stopped so there are currently test variables to show the program running
 
 * All the code required to get started
 * Images of what it should look like
